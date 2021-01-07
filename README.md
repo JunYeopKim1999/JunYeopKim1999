@@ -1,6 +1,7 @@
 
 <h1>My Project</h1>
-<h2>수험생 키우기</
+<h2>수험생 키우기</h2>
+
 https://play.google.com/store/apps/details?id=chajunkyu.firstrelease.suheomsaeng20&hl=ko&gl=US
 
 <h1>Top Language</h1>
