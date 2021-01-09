@@ -1,8 +1,8 @@
 
 <h1>My Project</h1>
 <h2>수험생 키우기(2019~2020)</h2>
-<h3>Description</h3>
 <img src="https://play-lh.googleusercontent.com/ASgryAulffVd2hdcyfrpmwj96Y4JJ7WtoYcl-LTVuSieww14f6Rv8SBN55AW2C5RRXs=s180-rw"/>
+<h3>Description</h3>
 
 만년 9등급의 주인공을 6개월만에 최고의 명문 한국대학교에 진학시키세요!
 
